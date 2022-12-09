@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chriswickens
+- 👋 Hi, I’m Chris Wickens
 - 👀 I’m interested in Programming, Music, Guitars, Metal Music
 - 🌱 I’m currently learning C#, CSS, HTML
 - 💞️ I’m looking to collaborate on nothing right now, I need more experience!
