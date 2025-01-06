@@ -5,7 +5,7 @@
 
 <center>
   <a href="http://www.northshroud.com">Check out NORTHSHROUD!</a>
-  <img src="https://f4.bcbits.com/img/0013888601_100.png">
+    <a href="http://www.northshroud.com"><img src="https://f4.bcbits.com/img/0013888601_100.png"></a>
 
 </center>
 
