@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chris Wickens
-- 👀 I’m interested in Programming, Music, Guitars, Metal Music
-- 🌱 I’m currently learning ARM Assembly, C, C++, C#, .Net, CSS, HTML and JavaScript and networking concepts!
-- 💞️ I’m looking to collaborate on nothing right now, I need more experience!
+- Hi, I’m Chris Wickens
+- I’m interested in Programming, Music, Guitars, Metal Music
+- I’m have experience with ARM Assembly, C, C++, C#, .Net, CSS, HTML and JavaScript and networking concepts!
+- I recently graduated from a Software Engineering program with High Distinction and I am actively seeking my first job to get experience!
 
 <center>
   <a href="http://www.northshroud.com">Check out NORTHSHROUD!</a>
